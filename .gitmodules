@@ -1,0 +1,6 @@
+[submodule "component/lv2"]
+	path = components/lv2
+	url = https://github.com/lv2/lv2
+[submodule "components/clap"]
+	path = components/clap
+	url = https://github.com/free-audio/clap
